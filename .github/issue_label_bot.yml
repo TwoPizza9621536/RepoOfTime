@@ -1,0 +1,6 @@
+label-alias:
+  bug: 'kind/bug'
+  feature_request: 'enhancement'
+  question: 'question'
+  first-timers-only: 'first timer"
+  project: 'project'
